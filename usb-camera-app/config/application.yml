@@ -1,0 +1,3 @@
+deviceName:
+outputAdd: rtmp://10.10.13.4/live/RD034
+frameRate: 30
